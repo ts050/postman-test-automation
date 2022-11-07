@@ -110,7 +110,7 @@
 			"name": "Tests",
 			"item": [
 				{
-					"name": "CreateParentFolder",
+					"name": "CreateFolder",
 					"event": [
 						{
 							"listen": "test",
